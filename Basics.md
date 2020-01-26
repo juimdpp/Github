@@ -1,4 +1,4 @@
-Best summary: https://rogerdudler.github.io/git-guide/index.ko.html
+Best summary: [Github summary](https://rogerdudler.github.io/git-guide/index.ko.html)
 
 Push modifications.
 
